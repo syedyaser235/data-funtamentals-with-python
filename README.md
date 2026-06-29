@@ -1,7 +1,7 @@
 # Data Fundamentals with Python
 
 A warm-up repo for practicing core data manipulation, EDA, and basic statistics 
-with pandasahead of more focused ML projects.
+with pandas ahead of more focused ML projects.
 
 ## Notebooks
 1. `01_pandas_basics.ipynb` — core pandas operations
@@ -11,4 +11,7 @@ with pandasahead of more focused ML projects.
 5. `05_intro_statistics_with_pandas.ipynb` — basic statistical testing
 
 ## Dataset
-*(to be added)*
+
+NYC Airbnb Open Data (2019) — not included in repo due to size. 
+Download from: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+Place as `data/AB_NYC_2019.csv` to run notebooks.
