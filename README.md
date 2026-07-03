@@ -12,6 +12,6 @@ with pandas ahead of more focused ML projects.
 
 ## Dataset
 
-NYC Airbnb Open Data (2019) — not included in repo due to size. 
+NYC Airbnb Open Data (2019), not included in repo due to size. 
 Download from: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 Place as `data/AB_NYC_2019.csv` to run notebooks.
